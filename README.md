@@ -1,2 +1,3 @@
-# warwalking
-Building a warwalking device.
+# Building an AP-Scanner for Warwalking
+
+t.b.d
