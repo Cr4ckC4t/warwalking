@@ -4,7 +4,7 @@ Build a handheld WLAN access point (AP) scanner + dashboard for warwalking.
 
 ---
 
-This projected consists of two parts:
+This project consists of two parts:
 1. A handheld device for warwalking (storing scanned APs with their location on a micro SD card) - and
 2. A python dashboard (using `tkinter`) to store and visualize the scan results.
 
